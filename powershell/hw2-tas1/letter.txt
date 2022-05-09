@@ -1,0 +1,9 @@
+Dear <name>,
+
+I would like to invite you to the Santa Claus meeting at <date>.
+it is gonna be wonderful if you can join the meeting with us.
+Please reply if you are interested in.
+The meeting is going to celebrate in my apartment. Please search it on the map: <address>
+
+Best regards,
+Sunshine
